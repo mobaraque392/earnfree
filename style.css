@@ -1,0 +1,138 @@
+*{padding: 0px;
+    margin: 0px;
+    border: 0px;
+    outline: 0px;
+    box-sizing: border-box;
+   
+}
+.container{width: 96%;
+        margin: auto;}
+.raw{width: 100%;
+        float: left;}
+    /* universal style  */
+    .col-1 {width: 8.33%; float: left;}
+    .col-2 {width: 16.66%;float: left;}
+    .col-3 {width: 25%;float: left;}
+    .col-4 {width: 32%;float: left;}
+    .col-5 {width: 41.66%;float: left;}
+    .col-6 {width: 50%;float: left;}
+    .col-7 {width: 58.33%;float: left;}
+    .col-8 {width: 66.66%;float: left;}
+    .col-9 {width: 75%;float: left;}
+    .col-10 {width: 83.33%;float: left;}
+    .col-11 {width: 91.66%;float: left;}
+    .col-12 {width: 100%;float: left;}
+/* section{} */
+#instant{background-color: #2b5566;}
+#earn-crypto{background-color: rgb(139, 115, 53);}
+#rub{background-color:#87ae57 ;}
+    
+.headding{font-size: 22px;font-weight: 800;text-transform: uppercase;text-align: center;color: #b0f842;background-color: black;margin: 6px 0px;} 
+.menu ul{
+    padding: 13px 0px;
+    text-align: right;
+    position: fixed;
+    margin: 0px 43px;
+    }
+.menu li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+    background-color: #a95252d1;
+    border-radius: 4px;}
+    .menu li a{
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 12px;
+    color: gold;
+    text-transform: uppercase;}
+
+
+.hero-part{background-color: rgba(0, 0, 0, 0.779);
+    border: solid 5px gray;
+    border-radius: 15px;
+    margin: 5px 5px;}
+.logo-part img{ width: 76px; height: 70px;
+    border: solid 3px goldenrod;
+    border-radius: 25px;}
+#payout{width: 35px;height: 30px;
+    margin:0px 20px;
+text-align: center;}
+h5{font-size: 12px;
+    color: #fff;
+    text-align: center;
+    padding: 0px;}
+.logo-part button{font-size: 16px;
+    text-align: center;
+    padding: 2px;
+    border: solid 2px gold;
+    border-radius: 15px;}
+
+.writing-part{color: rgba(255, 255, 255, 0.44);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.writing-part p{padding-left: 05px;}
+strong{color: aqua;}
+.writing-part button{color: white;
+    background-color: green;
+    padding: 10px 25px;
+    margin:10px 30px;
+    border-bottom:solid 5px rgba(255, 0, 0, 0.64);
+    border-radius: 10px;
+}
+.writing-part button:hover{background-color: red;
+    border-bottom:solid 5px rgba(255, 0, 0, 0.64);}
+/* Publisher part  */
+
+.instant-title{background-color: #141c1f;;text-align: center;border-radius:25px;}
+.instant-title h1{color: #E91456;}
+h1{
+     color: gold;
+     font-size: 26px;
+     margin:1px 18px;
+     }
+
+#adspace{color: #fff;
+    margin:1px 18px;}
+#lucky{color:#7CC623;
+    margin:1px 18px;}
+b{color:#f2137bf1;}
+#Vie-faucet{color: rgba(10, 196, 10, 0.862); font-weight: 600;}
+#adsatoshi{color: rgb(173, 126, 8);}
+#adsatoshi u{color: rgb(55, 49, 177);}
+#crypto-win{color: rgba(70, 70, 203, 0.732); font-weight: 50;}
+#crypto-win u{color: rgb(52, 138, 138);text-decoration: none;}
+#bit-surf{color: rgba(245, 245, 245, 0.827);font-weight: 100;}
+#bit-surf u{color: rgba(217, 211, 24, 0.81); text-decoration: none;}
+#coins-faucet{color: rgb(94, 94, 230);}
+#larvelfaucet{color: #4292AD;}
+#coinpayz{color: #FC6647;}
+#coinadster{color: #FBE136;}
+#earnbitmoon{color: rgba(255, 255, 255, 0.616);}
+    
+
+
+.writing-title{background-color: rgb(170, 124, 7);text-align: center;border-radius: 25px;}
+ 
+#coinpayu{color: #1FC0FF;}
+#cointiply{color: #E91456;}
+#dogebits{color: #D69B35;}
+
+
+#gwaher{color: #F4CC2F;}
+#faucetcrypto{color: #E91456;}
+
+.Earn-rub{background-color: #7CC623 ;text-align: center; border-radius: 25px;}
+#wmrfast{color: #6CBCFB;}
+#aviso{color: #6489BC;}
+#teaserfast{color:#81B239}
+#honeygain{color: goldenrod;}
+.wallets-title{background-color: #E91456;text-align: center;border-radius: 25px;}
+#wallets{background-color: #c64b72;}
+#faucetpay{color: #100E4D;}
+#faucetpay u{color: #4260BA;text-decoration: none;}
+#payeer{color: #898989;}
+#payeer u{color: #0592D9; text-decoration: none;}
+#coinbase{color: #0052FF;}
+
+
